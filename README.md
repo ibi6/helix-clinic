@@ -1,15 +1,17 @@
 <div align="center">
 
-# 🏥 慧医通 · 医院预约挂号与电子病历系统
+# 🏥 Helix Clinic · 慧医通
 
-### 患者预约 · 医生接诊 · 电子病历 · 后台管理
+### 医院预约挂号与电子病历一体化平台
+
+患者预约 · 医生接诊 · 电子病历 · 后台管理
 
 **Spring Boot 3 · React 19 · HttpOnly JWT Cookie · MyBatis-Plus · H2 / MySQL**
 
 <p>
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ibi6/Hospital?style=for-the-badge&logo=github" />
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/ibi6/Hospital?style=for-the-badge&logo=github" />
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ibi6/Hospital?style=for-the-badge" />
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ibi6/helix-clinic?style=for-the-badge&logo=github" />
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/ibi6/helix-clinic?style=for-the-badge&logo=github" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ibi6/helix-clinic?style=for-the-badge" />
 </p>
 
 <p>
